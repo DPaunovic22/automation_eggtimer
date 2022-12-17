@@ -22,8 +22,10 @@ API tests are written in Postman. In folder `documentation` there is file `CRUD 
 
 ## Documentation
 In folder `documentation` there are also documents:
+- 1_software_testing_theory_task.docx
 - test_plan_Dijana_Paunovic.docx
 - manual_testing_Dijana_Paunovic.docx
 - bugs_Dijana_Paunovic.docx
+
 
  
