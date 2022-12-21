@@ -35,7 +35,7 @@ public class HelpAndSettingsPage {
     }
 
     public void clickRadioButtonAlertSound(){
-        WebElement element = driver.findElement(radioButtonStatus);
+//        WebElement element = driver.findElement(radioButtonStatus);
         driver.findElement(radioButtonAlertSound).click();
     }
 }

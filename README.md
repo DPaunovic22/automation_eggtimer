@@ -14,7 +14,7 @@ Chrome version used during developing:
 `Version 108.0.5359.125 (Official Build) (64-bit)`
 
 ## API tests
-API tests are written in Postman. In folder `documentation` there is file `CRUD Users.postman_collection` which can be imported in Postman. When collection is successfully imported it can be run:
+API tests are written in Postman. In folder `documentation` there is file `CRUD Users.postman_collection` which can be imported in Postman. Also, there is file `reqresIn.postman_environment` where environment variables used in collection are located. When collection is successfully imported it can be run:
  - Right click on collection 'CRUD Users'
  - Click on 'Run Collection'
  - Select which test you want to run (or select all)
